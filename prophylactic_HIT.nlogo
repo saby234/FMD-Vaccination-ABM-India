@@ -137,7 +137,7 @@ to set-disease-parameters
     set exposure-period 1.0  set subclinical-period 2.8  set clinical-period 7.5  set VP 0.767
   ]
   if current-serotype = "Asia1" [
-    set exposure-period 1.5  set subclinical-period 2.0  set clinical-period 7.0  set VP 0.787
+   set exposure-period 1.3  set subclinical-period 1.8  set clinical-period 5.8   set VP 0.787
   ]
   set carrier-duration 320
   set carrier-probability 0.5
